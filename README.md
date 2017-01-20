@@ -1,4 +1,2 @@
 # Holamundo
-repositorio prueba
-sjajkk
-jsajkajksa
+hola christian
